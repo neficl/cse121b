@@ -6,7 +6,7 @@ Some possible ideas for my CSE 121b class for Winter semester 2022. I need to ch
 
 (https://mikkegoes.com/javascript-projects-for-beginners/)
 
-# Legendary-To-Do-List
+# Idea Choose: To-Do-List
 
 To-Do list is one of the most popular applications created by beginner programmers. In a way, this type of application is already referred to as iconic.
 
